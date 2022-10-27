@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse 
+#
 
 > This is the first html and css project of the first block in which linters are integrated.
 > This project is part of my Microverse exercises, where we learn how to set a up a new repository in a professional manners.
